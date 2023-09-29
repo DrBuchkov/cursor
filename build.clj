@@ -3,7 +3,7 @@
   (:require [clojure.tools.build.api :as b]
             [deps-deploy.deps-deploy :as dd]))
 
-(def lib 'io.github.drbuchkov/registry)
+(def lib 'io.github.drbuchkov/cursor)
 
 (def version (b/git-process {:git-args ["describe" "--tags"]}))
 

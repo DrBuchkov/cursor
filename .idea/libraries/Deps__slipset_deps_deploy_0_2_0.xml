@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: slipset/deps-deploy:0.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/slipset/deps-deploy/0.2.0/deps-deploy-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

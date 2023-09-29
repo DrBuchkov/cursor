@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: clj-commons/pomegranate:1.2.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/clj-commons/pomegranate/1.2.1/pomegranate-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
